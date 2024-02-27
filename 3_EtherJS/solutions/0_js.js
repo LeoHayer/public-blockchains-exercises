@@ -102,4 +102,4 @@ exercise = 1;
 
 require('dotenv').config();
 
-// exit();
+exit();
