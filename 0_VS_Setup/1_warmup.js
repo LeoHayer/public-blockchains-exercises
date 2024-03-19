@@ -96,8 +96,8 @@ catchMeIfYouCan3 = "You did catch me :(";
 // there is a shortcut for that: Alt-ArrowUp/Down.
 
 // Order the lines below accordingly.
-console.log("2. I would like to go below.");
 console.log("1. I would like to go above.");
+console.log("2. I would like to go below.");
 
 // Great! To learn more about key bindings, see:
 // - https://code.visualstudio.com/docs/getstarted/keybindings
